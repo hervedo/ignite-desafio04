@@ -41,10 +41,10 @@
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Thifany-Nicastro/IgniteNode-ChapterII-Desafio01.git
+$ git clone https://github.com/hervedo/ignite-desafio04.git
 
 # Entre na pasta
-$ cd IgniteNode-ChapterII-Desafio01
+$ cd ignite-desafio04
 
 # Instale as dependências
 $ yarn ou yarn install
